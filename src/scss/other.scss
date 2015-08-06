@@ -1,0 +1,16 @@
+
+$secondary-color: #4d4d4d;
+$border-color: #000;
+
+.container {
+    .title {
+        font-size: 20px;
+        color: $secondary-color;
+    }
+    .description {
+        font-size: 12px;
+        padding: 20px 0;
+        margin: 5px 0;
+        border: 1px solid $border-color;
+    }
+}

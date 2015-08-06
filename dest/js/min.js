@@ -1,1 +1,0 @@
-!function(){console.log("this is a test")}(),function(){console.log("this is another test")}();
